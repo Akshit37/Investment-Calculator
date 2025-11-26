@@ -1,4 +1,4 @@
-3 **Investment Calculator Model**
+# **Investment Calculator Model**
 
 This repository contains an Excel-based investment calculator designed to help users estimate returns, growth, and future value across various investment scenarios. The tool is useful for personal finance planning, portfolio analysis, and goal-based investing. The model incorporates the following:
 
